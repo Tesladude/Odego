@@ -12,7 +12,7 @@
     padding-top: 54px;
     padding-left: 189px;
     padding-right: 189px;
-    background-image: url(../odego/img/Hero.png.png);
+    background-image: url(./img/Hero.png);
     width: auto;
     height: 962px;
     background-repeat: no-repeat; 
@@ -63,7 +63,7 @@ fieldset{
 }
 .searchForm{
     background-color: transparent;
-    background-image: url(/img/svg/Oval.svg);
+    background-image: url(./img/svg/Oval.svg);
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 20px;
